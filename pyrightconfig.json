@@ -1,0 +1,11 @@
+{
+  "typeCheckingMode": "basic",
+  "reportInvalidTypeVarUse": false,
+  "reportPrivateUsage": false,
+  "reportIncompatibleMethodOverride": false,
+  "reportInvalidStringEscapeSequence": false,
+  "reportMissingTypeStubs": false,
+  "reportGeneralTypeIssues": false,
+  "reportOptionalSubscript": false,
+  "reportOptionalMemberAccess": false
+}

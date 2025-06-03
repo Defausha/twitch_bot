@@ -1,0 +1,11 @@
+2025-05-28 12:52:57.121246 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:02.121424 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:07.131648 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:12.141637 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:17.151872 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:22.159056 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:27.161801 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:32.162059 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:37.172534 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:42.177627 - ⚠️ Ошибка: Attempted to start a Bot instance on a different loop than the one it was initialized with.. Перезапуск через 5 секунд.
+2025-05-28 12:53:47.183058 - ❌ Бот завершил работу после максимального количества попыток.
