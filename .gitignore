@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code config
+.vscode/
+
+# PyCharm config
+.idea/
+
+# Environment variables
+.env
+
+# Logs and runtime data
+*.log
+
+# SQLite database
+*.db
+
+# Uvicorn reload
+*.reload
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,41 @@
+2025-06-04 20:18:04 [INFO] [DEBUG] Launching Twitch bot and API...
+2025-06-04 20:18:04 [ERROR] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<Client.start() done, defined at c:\projects\repo\twitch_bot\.venv\Lib\site-packages\twitchio\client.py:169> exception=RuntimeError('Attempted to start a Bot instance on a different loop than the one it was initialized with.')>
+Traceback (most recent call last):
+  File "c:\projects\repo\twitch_bot\.venv\Lib\site-packages\twitchio\client.py", line 175, in start
+    raise RuntimeError(
+    ...<2 lines>...
+    )
+RuntimeError: Attempted to start a Bot instance on a different loop than the one it was initialized with.
+2025-06-04 20:19:42 [INFO] [API] Request to /docs from IP 127.0.0.1, token=<no token>
+2025-06-04 20:19:42 [INFO] [API] Request to /openapi.json from IP 127.0.0.1, token=<no token>
+2025-06-04 20:33:34 [INFO] [DEBUG] Launching Twitch bot and API...
+2025-06-04 20:33:34 [ERROR] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<Client.start() done, defined at c:\projects\repo\twitch_bot\.venv\Lib\site-packages\twitchio\client.py:169> exception=RuntimeError('Attempted to start a Bot instance on a different loop than the one it was initialized with.')>
+Traceback (most recent call last):
+  File "c:\projects\repo\twitch_bot\.venv\Lib\site-packages\twitchio\client.py", line 175, in start
+    raise RuntimeError(
+    ...<2 lines>...
+    )
+RuntimeError: Attempted to start a Bot instance on a different loop than the one it was initialized with.
+2025-06-04 20:53:03 [INFO] [DEBUG] Launching Twitch bot and API...
+2025-06-04 20:53:03 [ERROR] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<Client.start() done, defined at c:\projects\repo\twitch_bot\.venv\Lib\site-packages\twitchio\client.py:169> exception=RuntimeError('Attempted to start a Bot instance on a different loop than the one it was initialized with.')>
+Traceback (most recent call last):
+  File "c:\projects\repo\twitch_bot\.venv\Lib\site-packages\twitchio\client.py", line 175, in start
+    raise RuntimeError(
+    ...<2 lines>...
+    )
+RuntimeError: Attempted to start a Bot instance on a different loop than the one it was initialized with.
+2025-06-04 21:10:31 [INFO] Successfully logged onto Twitch WS: defausha
+2025-06-04 21:10:31 [INFO] [Twitch] Бот запущен как defausha
+2025-06-04 21:20:30 [INFO] Successfully logged onto Twitch WS: defausha
+2025-06-04 21:20:30 [INFO] [Twitch] Бот запущен как defausha
+2025-06-04 21:25:31 [INFO] Successfully logged onto Twitch WS: defausha
+2025-06-04 21:25:31 [INFO] [Twitch] Бот запущен как defausha
+2025-06-04 22:22:38 [CRITICAL] Another instance of the bot is already running.
+2025-06-04 22:27:50 [CRITICAL] 🔒 'bot.lock' detected — another instance may already be running. Shutting down.
+2025-06-04 22:35:03 [CRITICAL] 🔒 'bot.lock' detected — another instance may already be running. Shutting down.
+2025-06-04 22:35:25 [CRITICAL] 🔒 'bot.lock' detected — another instance may already be running. Shutting down.
+2025-06-04 22:51:33 [CRITICAL] 🔒 'bot.lock' detected — another instance may already be running. Shutting down.
+2025-06-04 22:53:53 [CRITICAL] 🔒 'bot.lock' detected — another instance may already be running. Shutting down.
